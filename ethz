@@ -8,9 +8,8 @@ local ALLOWED_PLAYER_IDS = {
     "1596382068", -- ethz
     "1611311785", -- vaillant
     "1148740748", -- syzer
-    "4980248015", -- omer showcase
-    "3394773552", -- m3i test 
-    "4062420069" -- downsendrom test
+    "4980248015", -- omer showcase 
+    "4062420069", -- downsendrom test
 }
 
 local player = game:GetService("Players").LocalPlayer
