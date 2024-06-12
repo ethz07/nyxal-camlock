@@ -10,6 +10,7 @@ local ALLOWED_PLAYER_IDS = {
     "1148740748", -- syzer
     "4980248015", -- omer showcase 
     "4062420069", -- downsendrom test
+    "4097200035", -- 555t test
 }
 
 local player = game:GetService("Players").LocalPlayer
